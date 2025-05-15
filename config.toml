@@ -1,0 +1,7 @@
+[log]
+level = "debug"
+show_datetime = true
+datetime_format = "%Y-%m-%d %H:%M:%S"
+renderer = "console"
+use_colors_in_console = true
+path = "logs/bot.log"
